@@ -1,0 +1,35 @@
+{
+  "menus": [
+    {
+      "dropdown": "Games",
+      "drop": {
+        "dropdown1": "Cricket",
+        "dropdown2": "Football",
+        "drop1":{
+              "dropdown1":"entertain",
+              "dropdown2":"enjoyment"
+        },
+        "dropdown3": "Kabbad"
+      },
+      "id": 1
+    },
+    {
+      "dropdown": "Services",
+      "drop": {
+        "dropdown1": "Marketing",
+        "dropdown2": "HR",
+        "dropdown3": "Software"
+      },
+      "id": 2
+    },
+    {
+      "dropdown": "School",
+      "drop": {
+        "dropdown1": "Reading",
+        "dropdown2": "Writting",
+        "dropdown3": "Playing"
+      },
+      "id": 3
+    }
+  ]
+}
